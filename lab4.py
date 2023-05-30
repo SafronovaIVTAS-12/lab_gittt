@@ -1,8 +1,5 @@
 import os
 
-p = 'C:/Users/marga/PycharmProjects/pythonProject14'
-print('Файлов в папке ' + p + ': ' + str(len(os.listdir(p))))
-
 
 class Row:
     idx = 0
