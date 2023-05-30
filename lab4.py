@@ -149,5 +149,5 @@ print('')
 print('сортировка по номеру комнаты')
 data.print_d(data.sorted_by_room_num())  # сортировка по номеру комнаты
 print('')
-print('номер  103')
-data.print_d(data.value(103))  # номер больше 3
+print('номер  комнаты равен 111')
+data.print_d(data.value(111))  # номер комнаты равен 111
